@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alexaju.github.io</id>
+    <id>https://Alexaju.github.io</id>
     <title>Ziyan ZHU</title>
-    <updated>2019-06-30T08:05:53.183Z</updated>
+    <updated>2019-06-30T08:06:29.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alexaju.github.io"/>
-    <link rel="self" href="https://alexaju.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Alexaju.github.io"/>
+    <link rel="self" href="https://Alexaju.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://alexaju.github.io/images/avatar.png</logo>
-    <icon>https://alexaju.github.io/favicon.ico</icon>
+    <logo>https://Alexaju.github.io/images/avatar.png</logo>
+    <icon>https://Alexaju.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Ziyan ZHU</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://alexaju.github.io/post/test</id>
-        <link href="https://alexaju.github.io/post/test">
+        <id>https://Alexaju.github.io/post/test</id>
+        <link href="https://Alexaju.github.io/post/test">
         </link>
         <updated>2019-06-30T08:05:46.000Z</updated>
     </entry>
